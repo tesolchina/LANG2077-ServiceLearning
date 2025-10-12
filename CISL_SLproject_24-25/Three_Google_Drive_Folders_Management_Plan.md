@@ -16,22 +16,23 @@
 ### **Three Google Drive Folders:**
 
 #### **1. CISL Service Learning Project Folder** ✅
-- **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
+- **Link:** [https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing](https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing)
 - **Purpose:** Service Learning project deliverables and materials
-- **Status:** ✅ **ACTIVE** - Ready for collaboration
+- **Status:** ✅ **ACTIVE** - Already set up with existing content
 - **Content:** Photos, student lists, reflections, deliverables, feedback
+- **Existing:** photosCISLproject24-25 folder, Checklist and progress Google Doc
 
 #### **2. CISL LANG 2077 Course Folder** ✅
-- **Link:** [TO BE PROVIDED]
-- **Purpose:** General LANG 2077 course materials and documentation
+- **Link:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
+- **Purpose:** General LANG 2077 course materials and documentation for CISL fund report
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
-- **Content:** Course syllabus, assignments, resources, grades
+- **Content:** Course syllabus, assignments, resources, grades, CISL fund report materials
 
 #### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
 - **Link:** [TO BE PROVIDED]
 - **Purpose:** TKP-specific LANG 2077 course materials and documentation
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
-- **Content:** TKP materials, financial docs, student samples, reports
+- **Content:** Teaching support activities, cultural visits, AI technology, cooperation & exchange, student samples and pictures
 
 ---
 
@@ -124,26 +125,29 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 - 🔧 **Course resources** and materials
 
 ### **Tin Ka Ping LANG 2077 Course Folder:**
-- 📋 **TKP report** and documentation
-- 💰 **Financial records** and budget information
-- 🎓 **Student project samples** and examples
-- 📈 **Assessment results** and evaluation data
-- 📄 **Official correspondence** and agreements
+- 📸 **Teaching support activities** (支教活動相關)
+- 🏛️ **Cultural visit activities** (文化參訪活動相關)
+- 🤖 **AI technology & innovation** (AI技術及創新應用)
+- 🤝 **Cooperation & exchange** (合作與交流)
+- 📚 **Student samples and pictures** (學生活動樣本與照片)
+- 📋 **TKP foundation report** materials
 
 ---
 
 ## 🔄 **Upload Workflow for Cici Luo**
 
 ### **Phase 1: Setup (Week 1)**
-1. **Access all three Google Drive folders**
-2. **Create folder structures** in each folder
-3. **Upload master checklists** to each folder
-4. **Set up tracking systems** for each project
+1. ✅ **Access CISL Service Learning folder** (link provided, existing content)
+2. ✅ **Access CISL LANG 2077 Course folder** (link provided)
+3. 🔍 **Access Tin Ka Ping folder** (link pending)
+4. **Create folder structures** in each folder
+5. **Upload master checklists** to each folder
+6. **Set up tracking systems** for each project
 
 ### **Phase 2: Material Upload (Week 2-3)**
-1. **Upload CISL Service Learning materials** (35 files ready)
-2. **Upload CISL LANG 2077 course materials** (to be provided)
-3. **Upload Tin Ka Ping materials** (to be provided)
+1. ✅ **Upload CISL Service Learning materials** (35 files ready)
+2. 🔍 **Upload CISL LANG 2077 course materials** (to be identified)
+3. 🔍 **Upload Tin Ka Ping materials** (based on foundation checklist)
 4. **Organize materials** according to folder structure
 
 ### **Phase 3: Student Collection (Week 4-6)**
@@ -181,16 +185,19 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 ## 🎯 **Action Items**
 
 ### **Immediate Actions (Dr. Simon Wang):**
-1. **Provide Google Drive links** for Folders 2 and 3
-2. **Share access** with Cici Luo for all three folders
-3. **Provide course materials** for CISL LANG 2077 folder
-4. **Provide TKP materials** for Tin Ka Ping folder
+1. ✅ **Google Drive link for Folder 2 provided** (CISL LANG 2077 Course)
+2. 🔍 **Provide Google Drive link** for Folder 3 (Tin Ka Ping)
+3. **Share access** with Cici Luo for all three folders
+4. **Identify course materials** for CISL LANG 2077 folder
+5. ✅ **TKP materials identified** (based on foundation checklist)
 
 ### **Immediate Actions (Cici Luo):**
-1. **Access all three Google Drive folders**
-2. **Create folder structures** in each folder
-3. **Begin upload process** for available materials
-4. **Set up tracking systems** for each project
+1. ✅ **Access CISL Service Learning folder** (link provided)
+2. ✅ **Access CISL LANG 2077 Course folder** (link provided)
+3. 🔍 **Access Tin Ka Ping folder** (link pending)
+4. **Create folder structures** in each folder
+5. **Begin upload process** for available materials
+6. **Set up tracking systems** for each project
 
 ---
 
@@ -223,13 +230,15 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 - [ ] Course documentation complete
 
 ### **Folder 3: Tin Ka Ping LANG 2077 Course**
-- [ ] TKP materials uploaded and organized
-- [ ] Financial documentation complete
-- [ ] Student project samples collected
-- [ ] Final report and documentation ready
+- [ ] Teaching support activities uploaded (支教活動相關)
+- [ ] Cultural visit activities uploaded (文化參訪活動相關)
+- [ ] AI technology & innovation uploaded (AI技術及創新應用)
+- [ ] Cooperation & exchange uploaded (合作與交流)
+- [ ] Student samples and pictures uploaded (學生活動樣本與照片)
+- [ ] TKP foundation report materials ready
 
 ---
 
 **Last Updated:** October 12, 2025  
-**Status:** ✅ **ALL THREE FOLDERS IN GOOGLE DRIVE**  
-**Next Action:** Get Google Drive links for Folders 2 and 3, begin unified upload process
+**Status:** ✅ **FOLDERS 1 & 2 READY, FOLDER 3 LINK PENDING**  
+**Next Action:** Get Google Drive link for Tin Ka Ping folder, begin unified upload process
