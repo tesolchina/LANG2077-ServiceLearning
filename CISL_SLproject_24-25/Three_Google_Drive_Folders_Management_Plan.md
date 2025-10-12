@@ -29,8 +29,8 @@
 - **Content:** Course syllabus, assignments, resources, grades, CISL fund report materials
 
 #### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
-- **Link:** [TO BE PROVIDED]
-- **Purpose:** TKP-specific LANG 2077 course materials and documentation
+- **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh)
+- **Purpose:** TKP-specific LANG 2077 course materials and documentation for TKP sharing
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
 - **Content:** Teaching support activities, cultural visits, AI technology, cooperation & exchange, student samples and pictures
 
@@ -139,7 +139,7 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 ### **Phase 1: Setup (Week 1)**
 1. ✅ **Access CISL Service Learning folder** (link provided, existing content)
 2. ✅ **Access CISL LANG 2077 Course folder** (link provided)
-3. 🔍 **Access Tin Ka Ping folder** (link pending)
+3. ✅ **Access Tin Ka Ping folder** (link provided)
 4. **Create folder structures** in each folder
 5. **Upload master checklists** to each folder
 6. **Set up tracking systems** for each project
@@ -186,7 +186,7 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 
 ### **Immediate Actions (Dr. Simon Wang):**
 1. ✅ **Google Drive link for Folder 2 provided** (CISL LANG 2077 Course)
-2. 🔍 **Provide Google Drive link** for Folder 3 (Tin Ka Ping)
+2. ✅ **Google Drive link for Folder 3 provided** (Tin Ka Ping)
 3. **Share access** with Cici Luo for all three folders
 4. **Identify course materials** for CISL LANG 2077 folder
 5. ✅ **TKP materials identified** (based on foundation checklist)
@@ -194,7 +194,7 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 ### **Immediate Actions (Cici Luo):**
 1. ✅ **Access CISL Service Learning folder** (link provided)
 2. ✅ **Access CISL LANG 2077 Course folder** (link provided)
-3. 🔍 **Access Tin Ka Ping folder** (link pending)
+3. ✅ **Access Tin Ka Ping folder** (link provided)
 4. **Create folder structures** in each folder
 5. **Begin upload process** for available materials
 6. **Set up tracking systems** for each project
@@ -240,5 +240,5 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 ---
 
 **Last Updated:** October 12, 2025  
-**Status:** ✅ **FOLDERS 1 & 2 READY, FOLDER 3 LINK PENDING**  
-**Next Action:** Get Google Drive link for Tin Ka Ping folder, begin unified upload process
+**Status:** ✅ **ALL THREE FOLDERS READY FOR UPLOAD**  
+**Next Action:** Begin unified upload process across all three Google Drive folders

@@ -9,8 +9,8 @@
 ## 🎯 **Google Drive Folder**
 
 ### **Tin Ka Ping LANG 2077 Course Folder:**
-**Link:** [TO BE PROVIDED]
-**Purpose:** Tin Ka Ping foundation report materials and student samples
+**Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh)
+**Purpose:** Tin Ka Ping foundation report materials and student samples for TKP sharing
 
 ### **Folder Access:**
 - **Owner:** Dr. Simon Wang
@@ -129,7 +129,7 @@ Google Drive: Tin Ka Ping LANG 2077 Course/
 ## 🔄 **Upload Process**
 
 ### **Step 1: Access Google Drive Folder**
-1. **Wait for Google Drive link** to be provided
+1. **Click the link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh)
 2. **Verify access:** You should have Editor permissions
 3. **Review existing content** (if any)
 
@@ -189,7 +189,7 @@ Create the 6 main folders and subfolders as outlined above:
 ## 🎯 **Next Steps**
 
 ### **Immediate Actions:**
-1. **Wait for Google Drive link** for Tin Ka Ping folder
+1. ✅ **Google Drive link provided** for Tin Ka Ping folder
 2. **Identify materials** to upload based on checklist
 3. **Prepare photos and documents** for upload
 4. **Create folder structure** in Google Drive
@@ -203,5 +203,5 @@ Create the 6 main folders and subfolders as outlined above:
 ---
 
 **Last Updated:** October 12, 2025  
-**Status:** ✅ **READY FOR UPLOAD** (pending Google Drive link)  
-**Google Drive Folder:** [TO BE PROVIDED]
+**Status:** ✅ **READY FOR UPLOAD**  
+**Google Drive Folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh)

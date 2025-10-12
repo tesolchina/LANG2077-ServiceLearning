@@ -37,8 +37,8 @@
   - CISL fund report materials
 
 ### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
-- **Link:** [TO BE PROVIDED]
-- **Purpose:** TKP-specific LANG 2077 course materials and documentation
+- **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh)
+- **Purpose:** TKP-specific LANG 2077 course materials and documentation for TKP sharing
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
 - **Content:**
   - Teaching support activities (支教活動相關)
@@ -67,10 +67,10 @@
 - 🔍 **Need to create upload plan**
 
 ### **Folder 3: Tin Ka Ping LANG 2077 Course** ✅
-- ❌ **Google Drive link needed**
+- ✅ **Google Drive link provided**
 - ✅ **Upload plan created** (based on TKP foundation checklist)
 - ✅ **Materials identified** (student samples and pictures)
-- 🔍 **Need to locate folder link**
+- ✅ **Ready for upload**
 
 ---
 
@@ -131,10 +131,10 @@
 4. 🔍 **Begin upload process**
 
 ### **Phase 3: Tin Ka Ping LANG 2077 Course (Ready)**
-1. 🔍 **Locate Google Drive folder link**
+1. ✅ **Google Drive folder link provided**
 2. ✅ **Materials identified** (based on TKP foundation checklist)
 3. ✅ **Upload plan created**
-4. 🔍 **Begin upload process** (pending folder link)
+4. ✅ **Begin upload process** (ready to start)
 
 ---
 
@@ -142,22 +142,22 @@
 
 ### **For Dr. Simon Wang:**
 1. ✅ **Google Drive link for Folder 2 provided**
-2. **Search for Google Drive link** for Folder 3 (Tin Ka Ping)
-3. **Check email correspondence** for Tin Ka Ping folder link
-4. **Review Google Drive** for Tin Ka Ping folder
-5. **Identify materials** to upload to CISL LANG 2077 Course folder
-6. ✅ **Tin Ka Ping upload plan created** (based on foundation checklist)
+2. ✅ **Google Drive link for Folder 3 provided** (Tin Ka Ping)
+3. ✅ **All three Google Drive folders ready**
+4. **Identify materials** to upload to CISL LANG 2077 Course folder
+5. ✅ **Tin Ka Ping upload plan created** (based on foundation checklist)
+6. **Coordinate upload process** with Cici Luo
 
 ### **For Cici Luo:**
 1. **Begin upload** to CISL Service Learning Project Folder
 2. **Follow the upload plan** we've created
 3. ✅ **Access CISL LANG 2077 Course folder** (link provided)
-4. ✅ **Tin Ka Ping upload plan ready** (based on foundation checklist)
-5. **Wait for Tin Ka Ping folder link**
-6. **Prepare for coordinated upload** across all three folders
+4. ✅ **Access Tin Ka Ping folder** (link provided)
+5. ✅ **Tin Ka Ping upload plan ready** (based on foundation checklist)
+6. **Begin coordinated upload** across all three folders
 
 ---
 
 **Last Updated:** October 12, 2025  
-**Status:** ✅ **ALL THREE FOLDERS READY, FOLDER 3 LINK PENDING**  
-**Next Action:** Locate Google Drive link for Tin Ka Ping LANG 2077 Course folder
+**Status:** ✅ **ALL THREE FOLDERS READY FOR UPLOAD**  
+**Next Action:** Begin coordinated upload process across all three Google Drive folders
