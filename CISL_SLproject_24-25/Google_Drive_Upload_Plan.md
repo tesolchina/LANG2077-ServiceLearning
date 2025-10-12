@@ -33,34 +33,34 @@ CISL-Lang2077-deliverables/
 ### **Target Google Drive Folder:**
 **Main Project Folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
 
-### **Upload Structure Plan:**
+### **Upload Structure Plan (Based on CISL Checklist):**
 ```
-Google Drive: LANG 2077 Projects 2024-25/
-├── 01_CISL_ServiceLearning/              # Main SL project folder
-│   ├── 01_Visual_Documentation/          # Photos (from 1_Photos_Print_Quality)
-│   ├── 02_Student_Information/           # Student lists (from 2_Student_List)
-│   ├── 03_Learning_Documentation/        # Reflections (from 3_Student_Reflections)
-│   ├── 04_Service_Deliverables/          # Project outputs (from 4_Service_Deliverables)
-│   ├── 05_Feedback/                      # Partner feedback (from 5_Community_Partner_Feedback)
-│   └── 06_Additional_Materials/          # Admin docs (from _Administrative_Documents)
-├── 02_CISL_CourseMaterials/              # General course materials (to be created)
-└── 03_TKP_CourseMaterials/               # TKP course materials (to be created)
+Google Drive: CISL Service Learning Project/
+├── 01_Photos_Print_Quality/              # At least 10 photos (1 MB+ each)
+├── 02_Student_List/                      # List of students involved in SL project
+├── 03_Student_Reflections_Reports_Presentations/  # Students' reflection/learning reports/PowerPoint
+├── 04_Service_Deliverables/              # Electronic copies of service deliverables
+├── 05_Community_Partner_Feedback/        # Feedback from community partners
+├── 06_Service_User_Feedback/             # Feedback from service users
+├── 07_Additional_Materials/              # Any other relevant materials
+└── 08_Administrative_Documents/          # Project documentation and reports
 ```
 
 ---
 
 ## 📋 **Upload Instructions for Cici Luo**
 
-### **Step 1: Create Main Folder Structure**
+### **Step 1: Create Main Folder Structure (Based on CISL Checklist)**
 1. **Access Google Drive folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
-2. **Create subfolder:** `01_CISL_ServiceLearning`
-3. **Create subfolders within:**
-   - `01_Visual_Documentation`
-   - `02_Student_Information`
-   - `03_Learning_Documentation`
-   - `04_Service_Deliverables`
-   - `05_Feedback`
-   - `06_Additional_Materials`
+2. **Create subfolders directly in main folder:**
+   - `01_Photos_Print_Quality` (At least 10 photos, 1 MB+ each)
+   - `02_Student_List` (List of students involved in SL project)
+   - `03_Student_Reflections_Reports_Presentations` (Students' reflection/learning reports/PowerPoint)
+   - `04_Service_Deliverables` (Electronic copies of service deliverables)
+   - `05_Community_Partner_Feedback` (Feedback from community partners)
+   - `06_Service_User_Feedback` (Feedback from service users)
+   - `07_Additional_Materials` (Any other relevant materials)
+   - `08_Administrative_Documents` (Project documentation and reports)
 
 ### **Step 2: Upload Files by Category**
 
