@@ -31,7 +31,7 @@ CISL-Lang2077-deliverables/
 ## 🎯 **Google Drive Upload Strategy**
 
 ### **Target Google Drive Folder:**
-**Main Project Folder:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
+**Main Project Folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
 
 ### **Upload Structure Plan:**
 ```
@@ -52,7 +52,7 @@ Google Drive: LANG 2077 Projects 2024-25/
 ## 📋 **Upload Instructions for Cici Luo**
 
 ### **Step 1: Create Main Folder Structure**
-1. **Access Google Drive folder:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
+1. **Access Google Drive folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
 2. **Create subfolder:** `01_CISL_ServiceLearning`
 3. **Create subfolders within:**
    - `01_Visual_Documentation`

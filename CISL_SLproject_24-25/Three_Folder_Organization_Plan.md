@@ -11,7 +11,7 @@
 
 ### **1. CISL Service Learning Project Folder** ✅
 - **Location:** Google Drive (Cici Luo has access)
-- **Link:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
+- **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
 - **Access:** Dr. Wang (Owner), Cici Luo (Editor)
 - **Purpose:** Service Learning project documentation and materials
 - **Status:** ✅ **ACTIVE** - Ready for collaboration

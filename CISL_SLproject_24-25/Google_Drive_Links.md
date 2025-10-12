@@ -6,7 +6,7 @@
 
 ## 🔗 **Primary Google Drive Folder**
 
-**Main Project Folder:** [https://drive.google.com/drive/u/0/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo](https://drive.google.com/drive/u/0/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo)
+**Main Project Folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
 
 ### **Folder Access**
 - **Owner:** Dr. Simon Wang
