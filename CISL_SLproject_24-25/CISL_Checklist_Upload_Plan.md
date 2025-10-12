@@ -9,7 +9,7 @@
 ## 🎯 **Google Drive Folder**
 
 ### **Target Google Drive Folder:**
-**Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
+**Link:** [https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing](https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing)
 
 ### **Folder Access:**
 - **Owner:** Dr. Simon Wang
@@ -131,9 +131,12 @@ Google Drive: CISL Service Learning Project/
 ## 🔄 **Step-by-Step Upload Process**
 
 ### **Step 1: Access Google Drive Folder**
-1. **Click the link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
+1. **Click the link:** [https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing](https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing)
 2. **Verify access:** You should have Editor permissions
-3. **Create the 8 subfolders** as listed above
+3. **Note existing content:** 
+   - ✅ **photosCISLproject24-25** folder (already exists)
+   - ✅ **Checklist and progress** Google Doc (already exists)
+4. **Create additional subfolders** as needed for the remaining checklist items
 
 ### **Step 2: Upload Master Checklist**
 - **File:** `MASTER_CHECKLIST.md`
@@ -246,4 +249,4 @@ Upload these files to appropriate subfolders:
 
 **Last Updated:** October 12, 2025  
 **Status:** ✅ **READY FOR UPLOAD**  
-**Google Drive Folder:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
+**Google Drive Folder:** [https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing](https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing)

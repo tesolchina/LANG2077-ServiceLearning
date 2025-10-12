@@ -9,11 +9,13 @@
 ## 🎯 **Three Google Drive Folders Overview**
 
 ### **1. CISL Service Learning Project Folder** ✅
-- **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
+- **Link:** [https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing](https://drive.google.com/drive/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo?usp=sharing)
 - **Purpose:** Service Learning project deliverables and materials
-- **Status:** ✅ **ACTIVE** - Ready for collaboration
-- **Content:** 
-  - Photos (Print Quality, 1MB+)
+- **Status:** ✅ **ACTIVE** - Already set up with existing content
+- **Existing Content:**
+  - ✅ **photosCISLproject24-25** folder (already created)
+  - ✅ **Checklist and progress** Google Doc (already created)
+- **Additional Content Needed:**
   - Student List
   - Student Reflections/Reports/Presentations
   - Service Deliverables
@@ -23,8 +25,8 @@
   - Administrative Documents
 
 ### **2. CISL LANG 2077 Course Folder** ✅
-- **Link:** [TO BE PROVIDED]
-- **Purpose:** General LANG 2077 course materials and documentation
+- **Link:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
+- **Purpose:** General LANG 2077 course materials and documentation for CISL fund report
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
 - **Content:**
   - Course syllabus and lesson plans
@@ -32,6 +34,7 @@
   - Assessment tools and rubrics
   - Course resources and materials
   - Grade records and documentation
+  - CISL fund report materials
 
 ### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
 - **Link:** [TO BE PROVIDED]
@@ -50,14 +53,15 @@
 
 ### **Folder 1: CISL Service Learning Project** ✅
 - ✅ **Google Drive link provided**
-- ✅ **Upload plan created**
+- ✅ **Already set up with existing content**
+- ✅ **photosCISLproject24-25 folder exists**
+- ✅ **Checklist and progress Google Doc exists**
 - ✅ **35 files ready for upload**
-- ✅ **8 subfolders structure defined**
-- 🔄 **Ready for Cici Luo to begin upload**
+- 🔄 **Ready for Cici Luo to complete upload**
 
-### **Folder 2: CISL LANG 2077 Course** 🔍
-- ❌ **Google Drive link needed**
-- 🔍 **Need to locate folder link**
+### **Folder 2: CISL LANG 2077 Course** ✅
+- ✅ **Google Drive link provided**
+- ✅ **CISL fund report materials**
 - 🔍 **Need to identify materials to upload**
 - 🔍 **Need to create upload plan**
 
@@ -119,8 +123,8 @@
 4. 🔄 **Create 8 subfolders** based on checklist
 5. 🔄 **Upload 35 files** to appropriate folders
 
-### **Phase 2: CISL LANG 2077 Course (Pending)**
-1. 🔍 **Locate Google Drive folder link**
+### **Phase 2: CISL LANG 2077 Course (Ready)**
+1. ✅ **Google Drive folder link provided**
 2. 🔍 **Identify materials to upload**
 3. 🔍 **Create upload plan**
 4. 🔍 **Begin upload process**
@@ -136,19 +140,21 @@
 ## 📞 **Next Steps**
 
 ### **For Dr. Simon Wang:**
-1. **Search for Google Drive links** for Folders 2 and 3
-2. **Check email correspondence** for folder links
-3. **Review Google Drive** for folders with LANG 2077 names
-4. **Provide links** to Cici Luo once found
+1. ✅ **Google Drive link for Folder 2 provided**
+2. **Search for Google Drive link** for Folder 3 (Tin Ka Ping)
+3. **Check email correspondence** for Tin Ka Ping folder link
+4. **Review Google Drive** for Tin Ka Ping folder
+5. **Identify materials** to upload to CISL LANG 2077 Course folder
 
 ### **For Cici Luo:**
 1. **Begin upload** to CISL Service Learning Project Folder
 2. **Follow the upload plan** we've created
-3. **Wait for links** for the other two folders
-4. **Prepare for coordinated upload** across all three folders
+3. ✅ **Access CISL LANG 2077 Course folder** (link provided)
+4. **Wait for Tin Ka Ping folder link**
+5. **Prepare for coordinated upload** across all three folders
 
 ---
 
 **Last Updated:** October 12, 2025  
-**Status:** ✅ **FOLDER 1 READY, FOLDERS 2 & 3 PENDING**  
-**Next Action:** Locate Google Drive links for CISL LANG 2077 Course and Tin Ka Ping LANG 2077 Course folders
+**Status:** ✅ **FOLDERS 1 & 2 READY, FOLDER 3 PENDING**  
+**Next Action:** Locate Google Drive link for Tin Ka Ping LANG 2077 Course folder
