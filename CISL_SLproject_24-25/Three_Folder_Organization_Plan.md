@@ -7,7 +7,7 @@
 
 ---
 
-## 📁 **Three Separate Folders Overview**
+## 📁 **Three Google Drive Folders Overview**
 
 ### **1. CISL Service Learning Project Folder** ✅
 - **Location:** Google Drive (Cici Luo has access)
@@ -17,17 +17,18 @@
 - **Status:** ✅ **ACTIVE** - Ready for collaboration
 
 ### **2. CISL LANG 2077 Course Folder** ✅
-- **Location:** OneDrive/SharePoint (HKBU staff only)
-- **Link:** [https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1](https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1)
+- **Location:** Google Drive (Cici Luo has access)
+- **Link:** [TO BE PROVIDED]
 - **Shared with:** Ashley of CISL
 - **Purpose:** General course materials and documentation
-- **Status:** ✅ **FOUND** - Dr. Wang has access, Cici Luo does not
+- **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
 
-### **3. Tin Ka Ping LANG 2077 Course Folder** 🔍
-- **Location:** OneDrive/SharePoint (HKBU staff only)
+### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
+- **Location:** Google Drive (Cici Luo has access)
+- **Link:** [TO BE PROVIDED]
 - **Shared with:** Tin Ka Ping colleague via email
 - **Purpose:** TKP-specific course materials and documentation
-- **Status:** 🔍 **NEED TO LOCATE** - Link needs to be found and documented
+- **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
 - **Report Status:** ✅ **SUBMITTED** - Report already submitted to Tin Ka Ping Foundation
 - **Financial Status:** $149,913.48 unspent balance to be returned to GEO
 
@@ -36,18 +37,18 @@
 ## 🎯 **Current Status & Action Items**
 
 ### **Immediate Tasks**
-- [ ] **Locate CISL LANG 2077 OneDrive link** shared with Ashley
-- [ ] **Locate Tin Ka Ping LANG 2077 OneDrive link** shared via email
-- [ ] **Document all three folder links** in this organization plan
-- [ ] **Create access instructions** for Cici Luo (Google Drive only)
-- [ ] **Set up folder structure** in Google Drive for all three projects
+- [ ] **Get Google Drive links** for CISL LANG 2077 Course Folder
+- [ ] **Get Google Drive links** for Tin Ka Ping LANG 2077 Course Folder
+- [ ] **Document all three Google Drive folder links** in this organization plan
+- [ ] **Create unified upload plan** for all three Google Drive folders
+- [ ] **Set up folder structure** in all three Google Drive folders
 
 ### **Collaboration Strategy**
-Since Cici Luo only has access to Google Drive:
-1. **Primary collaboration** happens in Google Drive folder
-2. **OneDrive folders** remain HKBU staff only
-3. **Dr. Wang** manages OneDrive folders and syncs relevant materials to Google Drive
-4. **Cici Luo** focuses on Google Drive organization and documentation
+Since all three folders are now in Google Drive and Cici Luo has access:
+1. **Primary collaboration** happens in all three Google Drive folders
+2. **Cici Luo** can organize and upload materials to all three folders
+3. **Dr. Wang** coordinates and reviews materials across all folders
+4. **Unified workflow** for all three projects in Google Drive
 
 ---
 
