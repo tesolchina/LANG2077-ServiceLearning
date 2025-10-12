@@ -28,6 +28,8 @@
 - **Shared with:** Tin Ka Ping colleague via email
 - **Purpose:** TKP-specific course materials and documentation
 - **Status:** 🔍 **NEED TO LOCATE** - Link needs to be found and documented
+- **Report Status:** ✅ **SUBMITTED** - Report already submitted to Tin Ka Ping Foundation
+- **Financial Status:** $149,913.48 unspent balance to be returned to GEO
 
 ---
 
@@ -94,12 +96,14 @@ OneDrive: https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%
 - **Status:** ✅ **FOUND**
 - **Link:** [https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1](https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1)
 
-### **Tin Ka Ping LANG 2077 Course Folder**
+### **Tin Ka Ping LANG 2077 Course Folder** 🔍
 - **Shared with:** Tin Ka Ping colleague
 - **Platform:** OneDrive/SharePoint
 - **Access:** HKBU staff only
 - **Status:** 🔍 **NEED TO LOCATE**
-- **Action:** Search email correspondence with TKP colleague
+- **Report Status:** ✅ **SUBMITTED** to Tin Ka Ping Foundation
+- **Financial Status:** $149,913.48 unspent balance (Project #11.42.4151.136536)
+- **Action:** Search email correspondence with TKP colleague for folder link
 
 ### **Tin Ka Ping Report Form**
 - **Found:** [Tin Ka Ping Character and Ethics Development Scheme Report](https://hkbuhk-my.sharepoint.com/:w:/r/personal/simonwang_hkbu_edu_hk/_layouts/15/Doc.aspx?sourcedoc=%7B76644BA3-E354-4E85-8AE3-DE5053CA5FAF%7D&file=%E7%94%B0%E5%AE%B6%E7%82%B3%E5%9F%BA%E9%87%91%E6%9C%83%20%E9%9D%92%E5%B9%B4%E5%93%81%E6%A0%BC%E5%9F%B9%E8%82%B2%E8%A8%88%E5%8A%83%E5%A0%B1%E5%91%8A%E8%A1%A8_2024-25_template_LANG2077%20-%20Copy.docx&action=default&mobileredirect=true)
