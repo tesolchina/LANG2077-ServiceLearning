@@ -17,18 +17,21 @@
 
 #### **1. CISL Service Learning Project Folder** ✅
 - **Link:** [https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing](https://drive.google.com/drive/folders/1RI1Cad6flMju8jGM6DMYmAo5fX8DhYfh?usp=sharing)
-- **Purpose:** Service Learning project documentation and materials
+- **Purpose:** Service Learning project deliverables and materials
 - **Status:** ✅ **ACTIVE** - Ready for collaboration
+- **Content:** Photos, student lists, reflections, deliverables, feedback
 
 #### **2. CISL LANG 2077 Course Folder** ✅
 - **Link:** [TO BE PROVIDED]
-- **Purpose:** General course materials and documentation
+- **Purpose:** General LANG 2077 course materials and documentation
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
+- **Content:** Course syllabus, assignments, resources, grades
 
 #### **3. Tin Ka Ping LANG 2077 Course Folder** ✅
 - **Link:** [TO BE PROVIDED]
-- **Purpose:** TKP-specific course materials and documentation
+- **Purpose:** TKP-specific LANG 2077 course materials and documentation
 - **Status:** ✅ **GOOGLE DRIVE** - Cici Luo has access
+- **Content:** TKP materials, financial docs, student samples, reports
 
 ---
 
