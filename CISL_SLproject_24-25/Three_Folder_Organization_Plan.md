@@ -11,16 +11,17 @@
 
 ### **1. CISL Service Learning Project Folder** ✅
 - **Location:** Google Drive (Cici Luo has access)
-- **Link:** [https://drive.google.com/drive/u/0/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo](https://drive.google.com/drive/u/0/folders/1-TCg8jPnSSnbKS8usPZsmfGTSp6ihOAo)
+- **Link:** [https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7](https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7)
 - **Access:** Dr. Wang (Owner), Cici Luo (Editor)
 - **Purpose:** Service Learning project documentation and materials
 - **Status:** ✅ **ACTIVE** - Ready for collaboration
 
-### **2. CISL LANG 2077 Course Folder** 🔍
+### **2. CISL LANG 2077 Course Folder** ✅
 - **Location:** OneDrive/SharePoint (HKBU staff only)
+- **Link:** [https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1](https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1)
 - **Shared with:** Ashley of CISL
 - **Purpose:** General course materials and documentation
-- **Status:** 🔍 **NEED TO LOCATE** - Link needs to be found and documented
+- **Status:** ✅ **FOUND** - Dr. Wang has access, Cici Luo does not
 
 ### **3. Tin Ka Ping LANG 2077 Course Folder** 🔍
 - **Location:** OneDrive/SharePoint (HKBU staff only)
@@ -52,7 +53,7 @@ Since Cici Luo only has access to Google Drive:
 
 ### **Google Drive Main Folder Structure**
 ```
-LANG 2077 Projects 2024-25/
+Google Drive: https://drive.google.com/drive/u/0/folders/1YvZ4pR9aCksSMgLRxSJGVrq63nxA1-H7
 ├── 01_CISL_ServiceLearning/
 │   ├── 01_Visual_Documentation/
 │   ├── 02_Student_Information/
@@ -72,16 +73,26 @@ LANG 2077 Projects 2024-25/
     └── Resources/
 ```
 
+### **OneDrive SharePoint Structure**
+```
+OneDrive: https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1
+├── CISL-Lang2077-deliverables/
+│   ├── Administrative_Documents/
+│   ├── Assessment_Tools/
+│   ├── Student_Materials/
+│   └── Community_Feedback/
+```
+
 ---
 
 ## 🔗 **Links to Locate and Document**
 
-### **CISL LANG 2077 Course Folder**
+### **CISL LANG 2077 Course Folder** ✅
 - **Shared with:** Ashley of CISL
 - **Platform:** OneDrive/SharePoint
-- **Access:** HKBU staff only
-- **Status:** 🔍 **NEED TO LOCATE**
-- **Action:** Search email correspondence with Ashley
+- **Access:** HKBU staff only (Dr. Wang has access, Cici Luo does not)
+- **Status:** ✅ **FOUND**
+- **Link:** [https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1](https://hkbuhk-my.sharepoint.com/my?id=%2Fpersonal%2Fsimonwang%5Fhkbu%5Fedu%5Fhk%2FDocuments%2FSummer%202025%2FCISL%2DLang2077%2Ddeliverables&ga=1)
 
 ### **Tin Ka Ping LANG 2077 Course Folder**
 - **Shared with:** Tin Ka Ping colleague
